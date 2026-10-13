@@ -72,7 +72,7 @@ The current convenience fee is fixed at **₹90**.
 
 ## Live Demo
 
-https://muntraclonebyak.vercel.app/
+https://myntra-clone-by-ak.vercel.app/
 
 ## Current Limitations
 
