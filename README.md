@@ -70,18 +70,9 @@ Final Amount = Total MRP - Total Discount + Convenience Fee
 
 The current convenience fee is fixed at **₹90**.
 
-## Screenshots
-
-Add your own screenshots of the home and shopping bag pages to a `screenshots/` folder. Then add the following Markdown to this section:
-
-```markdown
-![Home Page](screenshots/home.png)
-![Shopping Bag](screenshots/bag.png)
-```
-
 ## Live Demo
 
-*Add your deployed website URL here.*
+https://muntraclonebyak.vercel.app/
 
 ## Current Limitations
 
